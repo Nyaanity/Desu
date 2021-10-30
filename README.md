@@ -1,4 +1,4 @@
 # Desu - Discord Bot Project (200+ commands)
 
-### Notice
+### Notice:
 Do **not** share this code with anyone.
