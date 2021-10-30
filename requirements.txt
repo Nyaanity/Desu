@@ -1,0 +1,14 @@
+discord
+asyncio
+datetime
+mariadb
+discord_components
+aiohttp
+aioping
+pillow
+pyfiglet
+ytdl
+voice
+discord-py-slash-command
+pytz
+colorama
