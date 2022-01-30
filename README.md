@@ -9,4 +9,4 @@
     No license.
 
 
-**©** Nyaanity
+**©** sha1oh
