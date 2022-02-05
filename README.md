@@ -11,4 +11,4 @@
     MIT (LICENSE.md)
 
 
-**©** Sasha
+**©** sha1oh
