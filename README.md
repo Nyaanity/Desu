@@ -11,4 +11,4 @@
     MIT (LICENSE.md)
 
 
-**©** sha1oh
+**©** Nyaanity
